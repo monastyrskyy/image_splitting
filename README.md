@@ -12,3 +12,5 @@ This app is particularly beneficial for painters who need their reference image 
 - **DPI Settings:** Choose the desired DPI to control the image resolution and print quality.
 - **Padding Management:** Set the maximum allowable padding as a percentage of the canvas size to ensure the image is appropriately scaled and centered.
 - **Aspect Ratio Preservation:** The image is scaled to fit the canvas without stretching, maintaining its original aspect ratio.
+  
+Currently testing this printing house: https://www.meinfoto.de/prints.jsf
